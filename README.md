@@ -1,23 +1,28 @@
-Toast API
-This project is a simple implementation of a Toast API using React's Context API, reducer, custom hooks, and styled with Tailwind CSS. It provides an easy-to-use interface for displaying toast messages in a React application.
+# Toast API
+
+This project is a simple implementation of a Toast API using React's createPortal, Context API, reducer, custom hooks, and styled with Tailwind CSS. It provides an easy-to-use interface for displaying toast messages in a React application.
 
 ![Image of the project](image.png)
 
-Table of Contents
-Installation
-License
-Installation
-Clone the repository:
+## Table of Contents
 
-git clone https://github.com/SylarLTC/toast_api_react_context_tailwind.git
+- [Installation](#installation)
+- [License](#license)
 
-Navigate to the project directory:
+## Installation
 
-cd toast-api
+1.  Clone the repository:
 
-Install dependencies:
+    git clone https://github.com/SylarLTC/toast_api_react_context_tailwind.git
 
-npm install
+2.  Navigate to the project directory:
 
-License
+    cd toast-api
+
+3.  Install dependencies:
+
+    npm install
+
+## License
+
 This project is licensed under the MIT License.
