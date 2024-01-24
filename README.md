@@ -13,7 +13,7 @@ This project is a simple implementation of a Toast API using React's createPorta
 
 1.  Clone the repository:
 
-    git clone https://github.com/SylarLTC/toast_api_react_context_tailwind.git
+    git clone https://github.com/SylarLTC/toast_portal_tailwind.git
 
 2.  Navigate to the project directory:
 
